@@ -17,7 +17,7 @@
 - Developing game servers
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/dinusha-amarasinghe-02560a299)
+- [LinkedIn](https://www.linkedin.com/in/dinusha599)
 - [X (Twitter)](https://x.com/dinusha599)
 - [Facebook](https://www.facebook.com/dinusha.madushan2)
 
