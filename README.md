@@ -1,23 +1,27 @@
-## 👋 Hi, I'm Dinusha Amarasinghe
+[README.md](https://github.com/user-attachments/files/22057906/README.md)
+# 👋 Hi, I'm Dinusha Amarasinghe
 
-**Role:** Software Engineer  
-**Education:** BSc (Hons) Computer Networks undergraduate, Plymouth University, UK  
-**Certifications:** Certificate Of Higher Education in Software Engineering, University of Westminster, UK
+**Software Engineer | BSc (Hons) Computer Networks undergraduate @ Plymouth University, UK**
 
-### 💻 Technical Skills
-- Python, Java, C, C#, Kotlin, Lua
-- React, HTML, CSS, JavaScript
-- Docker
+---
 
-### 🌱 Interests & Hobbies
+## 🚀 Technical Skills
+- **Languages:** Python, Java, C, C#, Kotlin, Lua, HTML, CSS, JavaScript
+- **Frameworks & Tools:** React, Docker
+
+## 🎓 Education & Certifications
+- BSc (Hons) Computer Networks, Plymouth University, United Kingdom
+- Certificate Of Higher Education in Software Engineering, University of Westminster, United Kingdom
+
+## 🌱 Interests & Hobbies
 - Playing games
 - Developing game servers
 
-### 🌐 Social Links
+## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/dinusha-amarasinghe-02560a299)
 - [X (Twitter)](https://x.com/dinusha599)
 - [Facebook](https://www.facebook.com/dinusha.madushan2)
 
 ---
 
-Feel free to connect or reach out for collaboration!
+> Always happy to connect and collaborate on exciting projects!
