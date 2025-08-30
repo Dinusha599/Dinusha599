@@ -1,4 +1,3 @@
-[PROFILE_SUMMARY.md](https://github.com/user-attachments/files/22057888/PROFILE_SUMMARY.md)
 ## 👋 Hi, I'm Dinusha Amarasinghe
 
 **Role:** Software Engineer  
