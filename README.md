@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22057906/README.md)
 # 👋 Hi, I'm Dinusha Amarasinghe
 
 **Software Engineer | BSc (Hons) Computer Networks undergraduate @ Plymouth University, UK**
