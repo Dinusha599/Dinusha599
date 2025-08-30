@@ -1,16 +1,24 @@
-## Hi there 👋
+[PROFILE_SUMMARY.md](https://github.com/user-attachments/files/22057888/PROFILE_SUMMARY.md)
+## 👋 Hi, I'm Dinusha Amarasinghe
 
-<!--
-**Dinusha599/Dinusha599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Role:** Software Engineer  
+**Education:** BSc (Hons) Computer Networks undergraduate, Plymouth University, UK  
+**Certifications:** Certificate Of Higher Education in Software Engineering, University of Westminster, UK
 
-Here are some ideas to get you started:
+### 💻 Technical Skills
+- Python, Java, C, C#, Kotlin, Lua
+- React, HTML, CSS, JavaScript
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Interests & Hobbies
+- Playing games
+- Developing game servers
+
+### 🌐 Social Links
+- [LinkedIn](https://www.linkedin.com/in/dinusha-amarasinghe-02560a299)
+- [X (Twitter)](https://x.com/dinusha599)
+- [Facebook](https://www.facebook.com/dinusha.madushan2)
+
+---
+
+Feel free to connect or reach out for collaboration!
